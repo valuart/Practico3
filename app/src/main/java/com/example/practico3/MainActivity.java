@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         etEuros = findViewById(R.id.etEuros);
         etCambio= findViewById(R.id.etCambio);
         rbA = findViewById(R.id.rbA);
-        rbA.setChecked(true);
+     //   rbA.setChecked(true);
         rbB = findViewById(R.id.rbB);
         btnConvertir = findViewById(R.id.btnConvertir);
 
